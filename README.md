@@ -2,17 +2,10 @@
 
 ###
 
-<p align="center">I'm a Computer Science Student at the University of Leeds, from London. I'm passionate about exploring the realms of coding, machine learning, and building robust applications.</p>
+<p align="center">I'm a Computer Science Student at the University of Leeds, from London. I'm passionate about exploring the realms of coding, systems, and building robust applications.</p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently exploring machine learning with scikit-learn<br>💻 Currently building a full stack application using SpringBoot and PostgreSQL</p>
-
-###
 
 <h2 align="left">I code with</h2>
 
